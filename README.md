@@ -1,6 +1,13 @@
 # HoriseonWebpage
+
+## Contributor
 Timothy Mickiewicz</br>
 
+## Technologies
+HTML </br>
+CSS </br>
+
+## Project Work
 Fixed/improved Horiseon web page </br>
 Ordered the 'div's more logically</br>
 Re-named main image class to a more logical/understandable class name</br>
